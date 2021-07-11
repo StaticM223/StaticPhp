@@ -1,9 +1,9 @@
 <?php
 
 $host = "localhost";
-$dbname = "id14816417_miner";
-$username = "id14816417_staticminer";
-$password = "nYd6GGloEdB72k$";
+$dbname = "fuckoff";
+$username = "fuckoff";
+$password = "fuckoff";
 
 try{
     $db = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
